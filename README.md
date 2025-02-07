@@ -1,4 +1,11 @@
-# front-end
+## Movie Database UI (VueJS)
+
+Tracker:
+- [x] Connect to nodeRestApiServer endpoint
+- [x] Created movie filters by loading movie data
+- [x] Performed search operation and pass search criterias
+- [x] Display movies information with pagination
+
 
 ## Project setup
 ```

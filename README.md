@@ -6,6 +6,7 @@ Tracker:
 - [x] Performed search operation and pass search criterias
 - [x] Display movies information with pagination
 
+<img src=image.png></img>
 
 ## Project setup
 ```
